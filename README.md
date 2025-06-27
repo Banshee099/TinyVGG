@@ -29,7 +29,7 @@ The TinyVGG model consists of:
 1. **Clone the repository** and navigate to the project directory.
 2. **Install dependencies** (see `requirements.txt`). For example:
    ```bash
-   pip install torch torchvision pandas matplotlib torchmetrics
+   pip install -r requirement.txt
    ```
 3. **Run the main script**:
    ```bash
